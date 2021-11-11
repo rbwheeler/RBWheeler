@@ -1,4 +1,4 @@
-// 👋 Hi, I’m @RBWheeler
+// 👋 Hi, I’m @RBWheeler<br>
 // 👀 I’m interested in web development && programming mobile apps
 // 🌱 I’m currently learning Javascript && Java && HTML && CSS3
 // 💞️ I’m looking to collaborate on remote work as a graphic designer || web developer
