@@ -1,4 +1,3 @@
 // Hi, I'm Wheels 👽 (she/they)<br>
-// Graphic Designer && Web Developer<br>
-// <a href="mailto:r.bliss.wheeler@gmail.com">r.bliss.wheeler@gmail.com</a>
+// <a href="mailto:wheels.software@gmail.com">r.bliss.wheeler@gmail.com</a>
 
